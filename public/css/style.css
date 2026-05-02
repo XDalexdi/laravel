@@ -1,0 +1,8 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.custom-btn {
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
